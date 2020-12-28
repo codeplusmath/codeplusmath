@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/rajkumar sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajkumar sawant" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajkumar sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rajkumar sawant" height="30" width="40" /></a>
 <a href="https://instagram.com/rajkumar_sawant_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajkumar_sawant_" height="30" width="40" /></a>
-<a href="/https://github.com/codeplusmath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://github.com/codeplusmath" height="30" width="40" /></a>
+<a href="https://codeplusmath.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="blogs" height="30" width="40" /></a>
 </p>
 
 ---
