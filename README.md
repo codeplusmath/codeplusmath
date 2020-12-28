@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
 
-<h3 align="center">A passionate student</h3>
+<h3 align="center">Learning...</h3>
 
 
 <p align="center">
