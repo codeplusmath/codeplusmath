@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/rajkumar_coder" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar_coder?logo=twitter&style=for-the-badge" alt="rajkumar_coder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rajkumar_Coder" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar_coder?logo=twitter&style=for-the-badge" alt="rajkumar_coder" /></a> </p>
 
 ---
 - 🌱 I’m currently learning **Network Security, ios Development**
