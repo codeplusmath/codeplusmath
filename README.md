@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/codeplusmath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codeplusmath" height="30" width="40" /></a>
-<a href="https://twitter.com/rajkumar_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajkumar_coder" height="30" width="40" /></a>
+<a href="https://twitter.com/Rajkumar_Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rajkumar_coder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajkumar sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rajkumar sawant" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajkumar sawant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rajkumar sawant" height="30" width="40" /></a>
 <a href="https://instagram.com/rajkumar_sawant_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajkumar_sawant_" height="30" width="40" /></a>
