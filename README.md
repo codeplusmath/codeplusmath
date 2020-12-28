@@ -1,8 +1,10 @@
 ### Welcome
+---
 
 
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
-<h3 align="center">A passionate student from India</h3>
+
+<h3 align="center">A passionate student</h3>
 
 <p align="center">
   <a href="https://github.com/codeplusmath" target="_blank"> <img src="https://github.com/codeplusmath/codeplusmath/blob/main/coding.gif" alt="git" /> </a>
@@ -12,9 +14,9 @@
 
 - 🌱 I’m currently learning **Network Security, ios Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/codeplusmath](https://github.com/codeplusmath)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/codeplusmath)
 
-- 📝 I regularly write articles on [https://github.com/codeplusmath](https://github.com/codeplusmath)
+- 📝 I regularly write articles on [Here](https://codeplusmath.blogspot.com/)
 
 
 <!-- ### Blogs posts -->
