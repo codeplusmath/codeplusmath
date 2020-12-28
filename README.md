@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome
+
+![](https://github.com/codeplusmath/codeplusmath/blob/main/coding.gif)
 
 <!--
 **codeplusmath/codeplusmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
