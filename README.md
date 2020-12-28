@@ -1,24 +1,26 @@
 ### Welcome
 ---
 
-
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
 
 <h3 align="center">A passionate student</h3>
+
 
 <p align="center">
   <a href="https://github.com/codeplusmath" target="_blank"> <img src="https://github.com/codeplusmath/codeplusmath/blob/main/coding.gif" alt="git" /> </a>
 </p>
 
+
 <p align="left"> <a href="https://twitter.com/rajkumar_coder" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar_coder?logo=twitter&style=for-the-badge" alt="rajkumar_coder" /></a> </p>
 
+---
 - 🌱 I’m currently learning **Network Security, ios Development**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/codeplusmath)
 
 - 📝 I regularly write articles on [Here](https://codeplusmath.blogspot.com/)
 
-
+---
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -32,6 +34,8 @@
 <a href="https://instagram.com/rajkumar_sawant_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rajkumar_sawant_" height="30" width="40" /></a>
 <a href="/https://github.com/codeplusmath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://github.com/codeplusmath" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,5 +60,4 @@
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 </p>
 
-
-![]()
+---
