@@ -11,10 +11,10 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/IllusionCreaton" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar_coder?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/IllusionCreaton" target="blank"><img src="https://img.shields.io/twitter/follow/IllusionCreaton?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
 ---
-- 🌱 I’m currently learning **Network Security, ios Development**
+- 🌱 I’m currently learning **Network Security, ios and android Development**
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/codeplusmath)
 
