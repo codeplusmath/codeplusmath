@@ -50,10 +50,10 @@
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/131px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/185px-Django_logo.svg.png" alt="django" width="60" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb.png/800px-Mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb.png/800px-Mongodb.png" alt="mongodb" width="80" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/150px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
