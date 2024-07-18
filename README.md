@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
 
-<h4 align="center">Software Engineer Intern at Persistent Systems LTD.</h4>
+<h4 align="center">Apps Dev at SomeWhere</h4>
 
 <h3 align="center">✍(◔◡◔)Learning...</h3>
 
